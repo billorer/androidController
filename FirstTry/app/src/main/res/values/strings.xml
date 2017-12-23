@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ControllerApi</string>
+
+    <string name="connectionTextView">Connection: </string>
+    <string name="connectButton">Connect</string>
+    <string name="connectEditText">Code</string>
+
+    <string name="upButton">Up</string>
+    <string name="downButton">Down</string>
+    <string name="leftButton">Left</string>
+    <string name="rightButton">Right</string>
+    <string name="attackButton">Attack</string>
+
+</resources>
